@@ -6,6 +6,14 @@
 ## SVG
 ![](./tonnetz-dim.svg)
 
+## Accessibility
+
+SoundQuest の「赤～緑の識別を要するデザインを減らす」に準拠
+
+![](./tonnetz-dim-accessible.png)
+
+![](./tonnetz-dim-accessible.svg)
+
 ## References
 
 - [A Unified Theory of Diminished Chords ― The Pop Descriptivist](https://m.youtube.com/watch?v=rCpJYOj_a9M)
