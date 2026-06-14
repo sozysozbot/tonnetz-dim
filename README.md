@@ -1,14 +1,25 @@
 # tonnetz-dim
 
+font: Noto Music
+
 ## PNG
+
+![](./tonnetz.png)
+
 ![](./tonnetz-dim.png)
 
 ## SVG
+
+![](./tonnetz.svg)
+
 ![](./tonnetz-dim.svg)
 
 ## Accessibility
 
 SoundQuest の「赤～緑の識別を要するデザインを減らす」に準拠
+
+
+![](./tonnetz-accessible.svg)
 
 ![](./tonnetz-dim-accessible.png)
 
